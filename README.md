@@ -1,2 +1,2 @@
 # GOTO
-An Finite State Machine
+A Finite State Machine
